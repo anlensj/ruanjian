@@ -1,0 +1,8 @@
+{
+    "latest_version": "1.1.0",
+    "description": "修复了若干bug，新增了功能",
+    "release_date": "2024-01-01",
+    "download_url": "https://example.com/updates/myapp_v1.1.0.zip",
+    "file_hash": "sha256哈希值(可选)",
+    "min_required_version": "1.0.0"
+}
